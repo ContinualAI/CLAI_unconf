@@ -1,0 +1,19 @@
+To test the site, run 
+
+https://jekyllrb.com/docs/
+
+bundle install
+
+bundle exec jekyll serve
+
+
+
+in header.html
+
+  {% if site.contact == "static" %}
+  {% include contact_static.html %}
+  {% elsif site.contact == "disqus" %}
+  {% include contact_disqus.html %}
+  {% else %}
+  {% include contact.html %}
+  {% endif %}
