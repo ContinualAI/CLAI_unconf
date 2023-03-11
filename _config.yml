@@ -24,12 +24,12 @@ contact: static
 disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
-# Pink #ff668c
-# Blue #2e54c7 #668cff
+# Pink #DD517E #F72585 #ff668c
+# Blue #3A0CA3 #3A0CA3 #2e54c7 #668cff
 color:
-  primary: 2e54c7 #80B3FF  
+  primary:  3A0CA3  #3A0CA3 #2e54c7 #80B3FF  
   primary-rgb: "24,288,156" #"128,179,255"
-  secondary: ff668c #FD6E8A
+  secondary: DD517E #F72585 #ff668c #FD6E8A
   secondary-dark: 233140 #A2122F
 
 # Footer settings
