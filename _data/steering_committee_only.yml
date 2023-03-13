@@ -1,0 +1,153 @@
+##########################################
+##########################################
+##########################################
+
+- name: "Rosa H. M. Chan"
+  img:  "/img/people/rosa_chan.jpg" 
+  title: "Associate Professor"
+  uni: "City University of Hong Kong"
+  position: "Steering Committee"
+  website: "https://cityucompuneurolab.github.io/"
+
+- name: "Fabio Cuzzolin"
+  img:  "/img/people/fabio_cuzzolin.jpg" 
+  title: "Professor"
+  uni: "Oxford Brookes University"
+  position: "Steering Committee"
+  website: "https://cms.brookes.ac.uk/staff/FabioCuzzolin/"
+
+- name: "Marco Gori"
+  img:  "/img/people/marco_gori.jpg" 
+  title: "Professor"
+  uni: "University of Siena"
+  position: "Steering Committee"
+  website: "http://sailab.diism.unisi.it/people/marco-gori/"
+
+- name: "Sung Ju Hwang"
+  img:  "/img/people/sung_hwang.png" 
+  title: "Professor"
+  uni: "KAIST"
+  position: "Steering Committee"
+  website: "http://www.sungjuhwang.com/"
+
+- name: "Christopher Kanan"
+  img:  "/img/people/chris_kanan.jpg" 
+  title: "Associate Professor"
+  uni: "University of Rochester"
+  position: "Steering Committee"
+  website: "https://chriskanan.com/"
+
+- name: "Zsolt Kira"
+  img:  "/img/people/zsolt_kira.jpg" 
+  title: "Assistant Professor"
+  uni: "Georgia Institute of Technology"
+  position: "Steering Committee"
+  website: "https://faculty.cc.gatech.edu/~zk15/"
+
+- name: "Dhireesha Kudithipudi"
+  img:  "/img/people/dhireesha_kudithipudi.jpg" 
+  title: "Professor"
+  uni: "University of Texas San Antonio"
+  position: "Steering Committee"
+  website: "https://ceid.utsa.edu/electrical-computer/team/dhireesha-kudithipudi/"
+
+- name: "Diane Larlus"
+  img:  "/img/people/diane_larlus.jpg" 
+  title: "Principal research scientist"
+  uni: "NAVER LABS Europe"
+  position: "Steering Committee"
+  website: "https://dlarlus.github.io/"
+
+- name: "Bing Liu"
+  img:  "/img/people/bing_liu.jpg" 
+  title: "Professor"
+  uni: "University of Illinois at Chicago"
+  position: "Steering Committee"
+  website: "https://www.cs.uic.edu/~liub/"
+
+- name: "Davide Maltoni"
+  img:  "/img/people/davide_maltoni.png" 
+  title: "Full Professor"
+  uni: "University of Bologna"
+  position: "Steering Committee"
+  website: "https://www.unibo.it/sitoweb/davide.maltoni/en"
+
+- name: "Razvan Pascanu"
+  img:  "/img/people/razvan_pascanu.jpg" 
+  title: "Research Scientist"
+  uni: "DeepMind"
+  position: "Steering Committee"
+  website: "https://sites.google.com/view/razp"
+
+- name: "Tinne Tuytelaars"
+  img:  "/img/people/tinne_tuytelaars.jpg" 
+  title: "Professor"
+  uni: "KU Leuven"
+  position: "Steering Committee"
+  website: "https://homes.esat.kuleuven.be/~tuytelaa/"
+
+- name: "Joaquin Vanschoren"
+  img:  "/img/people/joaquin_vanschoren.jpg" 
+  title: "Assistant Professor"
+  uni: "Eindhoven University of Technology"
+  position: "Steering Committee"
+  website: "https://joaquinvanschoren.github.io/home/"
+
+- name: "Joost van de Weijer"
+  img:  "/img/people/joost.jpg" 
+  title: "Senior Scientist"
+  uni: "Universitat Autònoma de Barcelona"
+  position: "Steering Committee"
+  website: "http://158.109.8.34/lamp/joost/"
+
+
+
+##########################################
+##########################################
+##########################################
+
+# - name: "Lola Test"
+#   img: "/img/people/noprofile.jpg" 
+#   title: "Distinguished Professor"
+#   uni: "South Harmon Institute of Technology"
+#   position: "Jester Chair"
+  # website: ""
+
+# - name: "Hakiem Test"
+#   img: "/img/people/noprofile.jpg" 
+#   title: "Distinguished Professor"
+#   uni: "South Harmon Institute of Technology"
+#   position: "Jester Chair"
+  # website: ""
+
+# ##########################################
+# ##########################################
+# ##########################################
+
+# - name: "Lola Test"
+#   img: "/img/people/noprofile.jpg" 
+#   title: "Distinguished Professor"
+#   uni: "South Harmon Institute of Technology"
+#   position: "Jester Chair"
+  # website: ""
+
+# - name: "Hakiem Test"
+#   img: "/img/people/noprofile.jpg" 
+#   title: "Distinguished Professor"
+#   uni: "South Harmon Institute of Technology"
+#   position: "Jester Chair"
+  # website: ""
+
+# - name: "Bob Test"
+#   img:  "/img/people/noprofile.jpg" 
+#   title: "Distinguished Professor"
+#   uni: "South Harmon Institute of Technology"
+#   position: "Jester Chair"
+  # website: ""
+
+# - name: "Lola Test"
+#   img: "/img/people/noprofile.jpg" 
+#   title: "Distinguished Professor"
+#   uni: "South Harmon Institute of Technology"
+#   position: "Jester Chair"
+  # website: ""
