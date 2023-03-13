@@ -292,27 +292,26 @@ section.success {
 }
 
 .our-team {
-    border-radius: 10px;
+    border-radius: 5px;
     text-align: center;
-    padding: 20px 15px 30px;
+    padding: 5px 5px 5px 5px;
     background: #fff;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
     /* max-width: 30px; */
 }
 
 .our-team .pic {
-    background: #fff;
     padding: 1px;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
     display: inline-block;
-    width: 50%;
-    height: 50%;
+    width: 200px;
+    height: 200px;
     transition: all 0.5s ease 0s;
 
 }
 
 .our-team:hover .pic {
-    background: #17bebb;
+    border:5px solid #{{ site.color.secondary }};
     border-radius: 50%;
 }
 
@@ -322,12 +321,12 @@ section.success {
     border-radius: 50%;
 }
 
-img {
+/* img {
     display: flex;
     margin: 0 auto;
     height: 100%;
     width: auto;
-}
+} */
 
 .btn-outline {
     margin-top: 15px;
