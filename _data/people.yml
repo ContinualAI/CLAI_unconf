@@ -1,54 +1,228 @@
-- name: "Bob Test"
-  img:  "/img/people/noprofile.jpg" 
-  title: "Distinguished Professor"
-  uni: "South Harmon Institute of Technology"
-  position: "Jester Chair"
+##########################################
+##########################################
+##########################################
 
-- name: "Lola Test"
-  img: "/img/people/noprofile.jpg" 
-  title: "Distinguished Professor"
-  uni: "South Harmon Institute of Technology"
-  position: "Jester Chair"
+- name: "James Smith"
+  img:  "/img/people/smith_james.jpg" 
+  title: "PhD Student"
+  uni: "Georgia Institute of Technology"
+  position: "General Chair"
+  website: "https://jamessealesmith.github.io/"
 
-- name: "Hakiem Test"
-  img: "/img/people/noprofile.jpg" 
-  title: "Distinguished Professor"
-  uni: "South Harmon Institute of Technology"
-  position: "Jester Chair"
+- name: "Martin Mundt"
+  img: "/img/people/mundt_martin.jpg" 
+  title: "Junior researcher"
+  uni: "TU Darmstadt"
+  position: "General Chair"
+  website: "https://martin-mundt.com/about-me/"
 
-- name: "Bob Test"
-  img:  "/img/people/noprofile.jpg" 
-  title: "Distinguished Professor"
-  uni: "South Harmon Institute of Technology"
-  position: "Jester Chair"
+- name: "Vincenzo Lomonaco"
+  img: "/img/people/lomonaco_vincenzo.jpg" 
+  title: "Assistant Professor"
+  uni: "University of Pisa"
+  position: "General Chair"
+  website: "https://www.vincenzolomonaco.com/"
 
-- name: "Lola Test"
-  img: "/img/people/noprofile.jpg" 
-  title: "Distinguished Professor"
-  uni: "South Harmon Institute of Technology"
-  position: "Jester Chair"
+- name: "Tyler Hayes"
+  img:  "/img/people/hayes_tyler.jpg" 
+  title: "Research Scientist"
+  uni: "NAVER Labs"
+  position: "General Chair"
+  website: "https://tyler-hayes.github.io/"
 
-- name: "Hakiem Test"
-  img: "/img/people/noprofile.jpg" 
-  title: "Distinguished Professor"
-  uni: "South Harmon Institute of Technology"
-  position: "Jester Chair"
+- name: "Andrea Cossu"
+  img: "/img/people/cossu_andrea.jpg" 
+  title: "PhD Student"
+  uni: "University of Pisa"
+  position: "General Chair"
+  website: "https://www.andreacossu.com/"
 
-- name: "Bob Test"
-  img:  "/img/people/noprofile.jpg" 
-  title: "Distinguished Professor"
-  uni: "South Harmon Institute of Technology"
-  position: "Jester Chair"
+- name: "Keiland Cooper"
+  img: "/img/people/cooper_keiland.jpg" 
+  title: "Graduate Fellow"
+  uni: "University of California, Irvine"
+  position: "General Chair"
+  website: "https://kwcooper.xyz"
 
-- name: "Lola Test"
-  img: "/img/people/noprofile.jpg" 
-  title: "Distinguished Professor"
-  uni: "South Harmon Institute of Technology"
-  position: "Jester Chair"
+##########################################
+##########################################
+##########################################
 
-- name: "Hakiem Test"
-  img: "/img/people/noprofile.jpg" 
-  title: "Distinguished Professor"
-  uni: "South Harmon Institute of Technology"
-  position: "Jester Chair"
+- name: "Julio Hurtado"
+  img:  "/img/people/hurtado_julio.png" 
+  title: "PhD Student"
+  uni: "University of Pisa"
+  position: "Program Chair"
+  website: "https://julioushurtado.github.io/"
 
+- name: "Hava Siegelmann"
+  img: "/img/people/siegelmann_hava.jpg" 
+  title: "Provost Professor"
+  uni: "U Mass., Amherst"
+  position: "Program Chair"
+  website: "https://groups.cs.umass.edu/binds/"
+
+##########################################
+##########################################
+##########################################
+
+- name: "Rahaf Aljundi"
+  img: "/img/people/aljundi_rahaf.jpg" 
+  title: "AI Researcher"
+  uni: "Toyota Motor Europe"
+  position: "Pre-Reg Chair"
+  website: "https://rahafaljundi.com/"
+
+- name: "Emtiyaz Khan"
+  img:  "/img/people/khan_emtiyaz.jpg" 
+  title: "Team Leader"
+  uni: "RIKEN Center, Tokyo"
+  position: "Pre-Reg Chair"
+  website: "https://emtiyaz.github.io/"
+
+- name: "Siddharth Swaroop"
+  img: "/img/people/swaroop_siddarth.jpg" 
+  title: "Postdoctoral Fellow"
+  uni: "Harvard University"
+  position: "Pre-Reg Chair"
+  website: "https://siddharthswaroop.github.io/"
+
+##########################################
+##########################################
+##########################################
+
+- name: "Camila Gonzalez"
+  img: "/img/people/gonzalez_camila.png" 
+  title: "PhD Student"
+  uni: "TU Darmstadt"
+  position: "DEI Chair"
+  website: "https://www.informatik.tu-darmstadt.de/gris/startseite_1/team/team_details_93760.de.jsp"
+
+- name: "Ghada Sokar"
+  img:  "/img/people/sokar_ghada.jpeg" 
+  title: "PhD candidate"
+  uni: "TU Eindhoven"
+  position: "DEI Chair"
+  website: "https://scholar.google.nl/citations?user=0e6fdZsAAAAJ&hl=en"
+
+##########################################
+##########################################
+##########################################
+
+- name: "Nikhil Churamani"
+  img: "/img/people/churamani_nikhil.jpg" 
+  title: "PhD Student"
+  uni: "University of Cambridge"
+  position: "Talks Chair"
+  website: "https://www.cl.cam.ac.uk/~nc528/"
+
+- name: "Gido van de Ven"
+  img: "/img/people/vandeven_gido.jpg" 
+  title: "Postdoctoral Researcher"
+  uni: "KU Leuven, Belgium"
+  position: "Talks Chair"
+  website: "https://gmvandeven.github.io/"
+
+##########################################
+##########################################
+##########################################
+
+- name: "Bilge Celik"
+  img:  "/img/people/celik_bilge.jpeg" 
+  title: "Data Scientist"
+  uni: "TU Eindhoven"
+  position: "Outreach Chair"
+  website: "https://www.linkedin.com/in/bilge-celik/?trk=public_profile_samename-profile&originalSubdomain=nl"
+
+- name: "Arthur Douillard"
+  img: "/img/people/douillard_arthur.jpg" 
+  title: "Research Scientist"
+  uni: "Deepmind"
+  position: "Outreach Chair"
+  website: "https://arthurdouillard.com/"
+
+- name: "Joseph KJ"
+  img: "/img/people/kj_joseph.jpg" 
+  title: "PhD Student"
+  uni: "IIT Hyderabad"
+  position: "Outreach Chair"
+  website: "https://josephkj.in/"
+
+##########################################
+##########################################
+##########################################
+
+- name: "Lorenzo Pellegrini"
+  img: "/img/people/pellefrini_lorenzo.jpg" 
+  title: "PhD Student"
+  uni: "University of Bologna"
+  position: "Tech Chair"
+  website: "https://twitter.com/lrzpellegrini"
+
+- name: "Ali Ayub"
+  img: "/img/people/ayub_ali.jpg" 
+  title: "Postdoctoral Fellow"
+  uni: "University of Waterloo"
+  position: "Tech Chair"
+  website: "https://sites.google.com/view/aliayub/"
+
+##########################################
+##########################################
+##########################################
+
+- name: "Marc Masana"
+  img:  "/img/people/masana_marc.png" 
+  title: "Postdoctoral Fellow"
+  uni: "TU Graz"
+  position: "Registration Chair"
+  website: "https://mmasana.github.io/"
+
+##########################################
+##########################################
+##########################################
+
+# - name: "Lola Test"
+#   img: "/img/people/noprofile.jpg" 
+#   title: "Distinguished Professor"
+#   uni: "South Harmon Institute of Technology"
+#   position: "Jester Chair"
+  # website: ""
+
+# - name: "Hakiem Test"
+#   img: "/img/people/noprofile.jpg" 
+#   title: "Distinguished Professor"
+#   uni: "South Harmon Institute of Technology"
+#   position: "Jester Chair"
+  # website: ""
+
+# ##########################################
+# ##########################################
+# ##########################################
+
+# - name: "Lola Test"
+#   img: "/img/people/noprofile.jpg" 
+#   title: "Distinguished Professor"
+#   uni: "South Harmon Institute of Technology"
+#   position: "Jester Chair"
+  # website: ""
+
+# - name: "Hakiem Test"
+#   img: "/img/people/noprofile.jpg" 
+#   title: "Distinguished Professor"
+#   uni: "South Harmon Institute of Technology"
+#   position: "Jester Chair"
+  # website: ""
+
+# - name: "Bob Test"
+#   img:  "/img/people/noprofile.jpg" 
+#   title: "Distinguished Professor"
+#   uni: "South Harmon Institute of Technology"
+#   position: "Jester Chair"
+  # website: ""
+
+# - name: "Lola Test"
+#   img: "/img/people/noprofile.jpg" 
+#   title: "Distinguished Professor"
+#   uni: "South Harmon Institute of Technology"
+#   position: "Jester Chair"
+  # website: ""
