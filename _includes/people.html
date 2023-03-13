@@ -1,25 +1,22 @@
 
-
-
 <!-- Org People -->
 
-
-<section class="portfolio" id="Overview">
+<section class="portfolio" id="people">
     <div class="container">
       <div class="row">
         <div class="col-lg-12 text-center">
-          <h2>Conference Organizers</h2>
-          <hr class="star-primary">
+          <h2 style="color:#{{ site.color.primary }}">Conference Organizers</h2>
+          <hr class="star-dark">
         </div>
       </div>
-
+      
       <div class="row">
         <div class="col-lg-12 text-center">
           <p style="color:#000">Organized by the non-profit research organization ContinualAI and members of the continual learning community</p>    
         </div>
       </div>
     </div>
-
+    <br>
       <div class="container">
         <div class="row text-center"> 
         {% for person in site.data.people %}
@@ -28,12 +25,14 @@
                 <div class="col-lg-4 col-sm-6 ">
                     <div class="our-team">
                         <div class="image-cropper pic">
-                            <img src={{ person.img }} alt=""> 
+                            <a href="{{ person.website }}" target="_blank">
+                                <img src={{ person.img }} alt=""> 
+                            </a>    
                         </div>
                         <div>
                             <p>{{ person.name }}</p>
                             <!-- <p> {{ person.title }}</p> -->
-                            <p> {{ person.uni }}</p>
+                            <p> <i> {{ person.uni }} </i> </p>
                             <p> {{ person.position }}</p>
                         </div>
                     </div>

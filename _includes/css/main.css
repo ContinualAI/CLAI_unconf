@@ -4,6 +4,7 @@
 
 body {
     overflow-x: hidden;
+    background-color: #{{ site.color.white }};
 }
 
 p {
@@ -35,6 +36,7 @@ h6 {
 }
 
 hr.star-light,
+hr.star-dark,
 hr.star-primary {
     margin: 25px auto 30px;
     padding: 0;
@@ -46,6 +48,7 @@ hr.star-primary {
 }
 
 hr.star-light:after,
+hr.star-dark:after,
 hr.star-primary:after {
     content: "\f534";
     display: inline-block;
@@ -71,6 +74,15 @@ hr.star-primary {
 
 hr.star-primary:after {
     color: #{{ site.color.secondary }};
+    background-color: #{{ site.color.white }};
+}
+
+hr.star-dark {
+    border-color: #{{ site.color.primary }};
+}
+
+hr.star-dark:after {
+    color: #{{ site.color.primary }};
     background-color: #{{ site.color.white }};
 }
 
@@ -292,12 +304,18 @@ section.success {
 }
 
 .our-team {
-    border-radius: 5px;
+    border-radius: 20px;
     text-align: center;
+    margin-bottom: 20px;
     padding: 5px 5px 5px 5px;
-    background: #fff;
+    color: #000;
+    background: #{{ site.color.white }};;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
     /* max-width: 30px; */
+}
+
+.our-team p {
+    margin: 0px 0px 5px 0px;
 }
 
 .our-team .pic {
