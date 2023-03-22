@@ -83,7 +83,7 @@ hr.star-dark {
 
 hr.star-dark:after {
     color: #{{ site.color.primary }};
-    background-color: #{{ site.color.white }};
+    background: #{{ site.color.white }};
 }
 
 .img-centered {
@@ -93,13 +93,15 @@ hr.star-dark:after {
 header {
     text-align: center;
     color: #{{ site.color.white }};
-    background: #{{ site.color.primary }};
+    /* background: #{{ site.color.primary }}; */
+    background-image: linear-gradient(#{{ site.color.secondary }}, #{{ site.color.primary }}); 
 }
 
 header .container {
     padding-top: 100px;
     width: 100%;
-    height: 100vh;
+    height: 50%; 
+    /* height: 100vh; */
     padding-bottom: 100px;
 }
 
