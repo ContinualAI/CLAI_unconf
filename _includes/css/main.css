@@ -143,9 +143,9 @@ header .intro-text .skills {
 @media(min-width:768px) {
     .navbar-fixed-top {
         padding: 25px 0;
-        -webkit-transition: padding .3s;
-        -moz-transition: padding .3s;
-        transition: padding .3s;
+        -webkit-transition: padding .2s;
+        -moz-transition: padding .2s;
+        transition: padding .2s;
     }
 
     .navbar-fixed-top .navbar-brand {
@@ -168,6 +168,9 @@ header .intro-text .skills {
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
+    /* background: rgba(255,0,0,0);
+    background-image: linear-gradient(#{{ site.color.secondary }} 80%, rgba(255,0,0,0));  */
+
 }
 
 .navbar a:focus {
@@ -199,6 +202,13 @@ section h2 {
 section.success {
     color: #{{ site.color.white }};
     background: #{{ site.color.primary }};
+}
+
+section.success img {
+    display: block;
+    max-width: 70%;
+    max-height: auto;
+    margin: 0 auto 20px;
 }
 
 @media(max-width:767px) {
