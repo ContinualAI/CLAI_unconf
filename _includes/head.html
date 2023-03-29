@@ -7,6 +7,12 @@
   <meta name="keywords" content="{{ site.keywords }}" />
   {% if site.meta_author %}
   <meta name="author" content="{{ site.meta_author }}">{% endif %}
+
+  <meta property="og:title" content={{ site.title }} />
+  <meta property="og:type" content="research" />
+  <meta property="og:url" content="https://unconf.continualai.org" />
+  <meta property="og:image" content="https://https://unconf.continualai.org/img/CLAI-Horizontal.png" />
+
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="RSS" href="feed.xml">
 
