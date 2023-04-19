@@ -72,7 +72,7 @@ permalink: pretty
 #for posts
 defaults:
   - scope:
-      path: ""
+      path: "_posts"
       type: "posts"
     values:
-      permalink: "/"
+      permalink: "/:title"

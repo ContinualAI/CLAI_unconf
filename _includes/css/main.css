@@ -7,7 +7,7 @@ body {
     background-color: #{{ site.color.white }};
 }
 
-p {
+p, #post ul, #post ol {
     font-size: 20px;
 }
 
@@ -569,4 +569,8 @@ footer .footer-below {
 .modal.fade.in {
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
+}
+
+#post {
+    color:#000;
 }
