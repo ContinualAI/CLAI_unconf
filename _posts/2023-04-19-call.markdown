@@ -41,7 +41,8 @@ We emphasize that the pre-registration process moves the priority of reviewing t
 #### Second stage
 
 - April 16, 2024: submission of final papers
-- May 18,  2024: decisions releasedJune 5, 2024: journal camera ready due 
+- May 18, 2024: decisions released
+- June 5, 2024: journal camera ready due 
 
 # Pre-registration and Review Process
 
@@ -77,7 +78,7 @@ Upon acceptance of the pre-registered proposal, the final paper is required to a
 Papers need to be formatted according to the CLAI Unconf LaTex template, derived from PMLR, which will be provided soon. Any modifications to the style file, in particular the alteration of margins, are not permitted and will result in desk rejection. Similarly, dual-submissions are not allowed, and papers will face desk rejection if they are concurrently being submitted to another venue. Submissions based on prior non-arxival works (e.g. workshops without proceedings) are allowed, but we emphasize that they need to comply with the spirit of pre-registration and should not already have empirical evidence to fully confirm the main hypotheses.
 
 
-### Anonymization and Author Order 
+#### Anonymization and Author Order
 
 The initial submission for the pre-registration is required to be fully anonymized. Any references to the authors' prior work need to adhere to the double-blind policy and are not allowed to expose the authors' identities or affiliations. Upon acceptance, the later final reports are submitted for single-blind review, where the authors' identities are known (given that they have presented at the conference). 
 
@@ -91,6 +92,4 @@ Minor changes to the experimental protocol in the second stage will be permitted
 
 #### Attendance
 
-CLAI Unconf is a fully virtual event with multiple time zones to accommodate participants from all around the world. Authors whose pre-registered proposals have been accepted agree to present their works as either a contributed talk (if selected) or in a poster session virtually (GatherTown).   
-
-
+CLAI Unconf is a fully virtual event with multiple time zones to accommodate participants from all around the world. Authors whose pre-registered proposals have been accepted agree to present their works as either a contributed talk (if selected) or in a poster session virtually (GatherTown).
