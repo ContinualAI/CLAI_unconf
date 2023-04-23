@@ -219,6 +219,10 @@ section.success img {
     margin: 0 auto 20px;
 }
 
+section.success a {
+    color: #B802CD;
+}
+
 @media(max-width:767px) {
     section {
         padding: 75px 0;
