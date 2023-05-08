@@ -198,6 +198,21 @@ header .intro-text .skills {
     padding-bottom: 0; 
 }
 
+.navbar-default .navbar-nav > .open, .open > a, .open > a:focus {
+    background-color: transparent !important;
+}
+
+.dropdown-menu {
+    background-color: #B802CD;
+}
+
+.dropdown-menu li a {
+    background-color: #B802CD;
+    color: white;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 600;
+}
+
 section {
     padding: 100px 0;
 }
