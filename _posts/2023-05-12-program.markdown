@@ -12,4 +12,6 @@ title: Program
 permalink: program
 ---
 
-<img src="UnConf_Program_Glance.png" width="100%" alt="Program at a glance">
+<img src="UnConf_Program_Glance.png" width="100%" alt="Program at a glance" class="fullscreenable_img">
+
+<p class="text-center tap-to-zoom-hint" zIndex="10000">(tap to zoom)</p>
