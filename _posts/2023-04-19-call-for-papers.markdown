@@ -82,6 +82,8 @@ In summary, authors _first finalize all methods, hypotheses and experimental pro
 
 # Submission Formatting
 
+*See the [LaTeX submission template]({{ site.baseurl }}/CLAI_Unconf_Template.zip) for details and a summary of instructions.*
+
 _Pre-registered proposals are expected to be 6 pages in length_, outlining all background, proposed methods, hypotheses and a carefully thought out experimental protocol, with an unlimited number of pages for references. Whereas we don't strictly impose a structure, the above elements need to be clearly outlined and we strongly encourage authors to adopt the following sections: introduction, background and related work, hypotheses and proposed method, experimental protocol. 
 
 Upon acceptance of the pre-registered proposal, the final paper is required to add an experimental results and discussion section, _with no strict page limit_. Importantly, the _initial six pages are required to be left unmodified_, with the exception of being allowed a minor addition of a summary of results at the end of the abstract and/or introduction. The unlimited amount of pages is to ensure that all results are properly documented and adequately explained. However, we encourage authors to stay concise, with an envisioned final length of 10-12 pages. Additional materials (e.g. videos, code) are permitted in the form of supplementary material in this stage. We strongly encourage the contribution of public code in the second stage to promote reproducibility. 
