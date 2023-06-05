@@ -12,9 +12,21 @@ title: Call for Pre-registered Papers
 permalink: call-for-papers
 ---
 
+#### Important updates
+<i class="fa-regular fa-star fa-beat fa-sm">NEW!</i>&nbsp;&nbsp;
+**The [OpenReview](https://openreview.net/group?id=continualai.org/CLAI/2023/Unconference_Preregistration_Track) page now accepts submissions!**
+
+<i class="fa-regular fa-star fa-beat fa-sm">NEW!</i>&nbsp;&nbsp;
+**The [LaTeX template]({{ site.baseurl }}/CLAI_Unconf_Template.zip) is now available**
+
+
+<hr style="border: 1px solid black"/>
+
+*This call is also available in [PDF format <i class="fa-regular fa-file-pdf fa-sm"></i>]({{ site.baseurl }}/Prereg_CFP.pdf)*
+
 The natural world is a _dynamic_ environment that is constantly changing, requiring humans and animals to _adapt_. However, much research in Artificial Intelligence (AI) is focused on the static train-test paradigm with heavily curated benchmarks. To transcend these static assumptions, the Continual Artificial Intelligence Unconference 2023 (CLAI Unconf) invites submissions with original contributions in the form of _pre-registration articles_ on topics broadly related to continual learning and adjacent fields. Solicited themes may revolve around (but are not limited to) navigating complex data collection systems, understanding and describing continuous streams of data, lifelong learning processes and generalization of knowledge beyond a specific target, discovering new concepts in changing environments, and related topics from an interdisciplinary perspective. 
 
-Pre-registration ensures scientific excellence through a two-stage submission procedure that separates quality of scientific hypotheses from potentially negative downstream empirical analysis. In the first stage, researchers write a proposal with well-articulated ideas and a thoroughly outlined experimental protocol, which is peer-reviewed on the OpenReview platform. Upon acceptance, researchers can incorporate feedback through active dialogue at the conference. In the second stage, researchers will rigorously evaluate their ideas, with the final paper published in CLAI Unconf's Proceedings of Machine Learning Research ([PMLR](https://proceedings.mlr.press)), after a light second round of peer-review to confirm rigorous execution. In this way, ideas can be presented and discussed within the community before being validated experimentally, allowing valuable insights from well-formulated hypotheses, even if later they do not empirically outperform other methods. This should help move the field towards papers with high-quality hypotheses and away from an increasingly positive-result bias in published literature. 
+Pre-registration ensures scientific excellence through a two-stage submission procedure that separates quality of scientific hypotheses from potentially negative downstream empirical analysis. In the first stage, researchers write a proposal with well-articulated ideas and a thoroughly outlined experimental protocol, which is peer-reviewed on the [OpenReview](https://openreview.net/group?id=continualai.org/CLAI/2023/Unconference_Preregistration_Track) platform. Upon acceptance, researchers can incorporate feedback through active dialogue at the conference. In the second stage, researchers will rigorously evaluate their ideas, with the final paper published in CLAI Unconf's Proceedings of Machine Learning Research ([PMLR](https://proceedings.mlr.press)), after a light second round of peer-review to confirm rigorous execution. In this way, ideas can be presented and discussed within the community before being validated experimentally, allowing valuable insights from well-formulated hypotheses, even if later they do not empirically outperform other methods. This should help move the field towards papers with high-quality hypotheses and away from an increasingly positive-result bias in published literature. 
 
 We welcome papers across many disciplines, including but not limited to more specific topics within:
 
@@ -66,7 +78,7 @@ While registered reports add substantial gains in scientific rigor, they add min
 5. A lighter final single-blind peer review (anonymity of reviewers is preserved) then accepts this full paper version, on the basis of whether the protocol has been followed rigorously and findings described appropriately. Whether these findings are confirmatory of the hypotheses does not affect the outcome.
 6. The final complete paper is published in PMLR.     
 
-In summary, authors _first finalize all methods, hypotheses and experimental protocols, which are double-blind peer-reviewed. Upon acceptance, authors will be allotted time to execute their outlined studies. A second, lighter, peer-review step confirms that the proposal has rigorously been adhered to_. We will run the full submission process on OpenReview and ensure the proposal reviewing process is double-blind, with the second stage review then being single-blind for the final executed result papers. 
+In summary, authors _first finalize all methods, hypotheses and experimental protocols, which are double-blind peer-reviewed. Upon acceptance, authors will be allotted time to execute their outlined studies. A second, lighter, peer-review step confirms that the proposal has rigorously been adhered to_. We will run the full submission process on [OpenReview](https://openreview.net/group?id=continualai.org/CLAI/2023/Unconference_Preregistration_Track) and ensure the proposal reviewing process is double-blind, with the second stage review then being single-blind for the final executed result papers. 
 
 
 # Submission Formatting
