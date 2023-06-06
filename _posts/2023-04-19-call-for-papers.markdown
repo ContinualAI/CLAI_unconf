@@ -13,11 +13,12 @@ permalink: call-for-papers
 ---
 
 #### Important updates
+
 <i class="fa-regular fa-star fa-beat fa-sm">NEW!</i>&nbsp;&nbsp;
 **The [OpenReview](https://openreview.net/group?id=continualai.org/CLAI/2023/Unconference_Preregistration_Track) page now accepts submissions!**
 
-<i class="fa-regular fa-star fa-beat fa-sm">NEW!</i>&nbsp;&nbsp;
-**The [LaTeX submission template]({{ site.baseurl }}/CLAI_Unconf_Template.zip) is now available, including more detailed instructions on pre-registration and formatting.**
+
+<i class="fa-regular fa-star fa-beat fa-sm">NEW!</i>&nbsp;&nbsp;**The [LaTeX submission template]({{ site.baseurl }}/CLAI_Unconf_Template.zip) is now available, including more detailed instructions on pre-registration and formatting.**
 
 <hr style="border: 1px solid black"/>
 
