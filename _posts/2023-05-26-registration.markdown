@@ -12,10 +12,10 @@ title: Registration
 permalink: register
 ---
 
-We are pleased to announce that the registration for the Un-Conference will open on the 15th of June.
+We are pleased to announce that the registration for the Un-Conference is now open.
 
 **Registration is free for everyone!**
 
-*The registration form will be published soon!*
+<a href="https://www.eventbrite.it/e/continualai-unconference-tickets-617690417667" target='_blank'><button type="button" class="btn btn-primary">Register here now!</button></a>
 
 Sign up for the [**newsletter**](https://continualai.us3.list-manage.com/subscribe?u=29a139e2e5d0fc1e2ef05c1a9&id=bd92706098) <i class="fa-solid fa-newspaper"></i> to receive updates about the UnConference.
