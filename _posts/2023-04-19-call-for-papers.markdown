@@ -43,7 +43,7 @@ We emphasize that the pre-registration process moves the priority of reviewing t
 
 #### First stage
 
-- July 21: pre-registered paper submission 
+- July 31: pre-registered paper submission 
 - August 20: reviews released 
 - August 30: author rebuttals due 
 - September 7: decisions communicated 
