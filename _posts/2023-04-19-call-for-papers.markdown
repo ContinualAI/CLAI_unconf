@@ -45,9 +45,9 @@ We emphasize that the pre-registration process moves the priority of reviewing t
 
 - July 31: pre-registered paper submission 
 - August 20: reviews released 
-- August 30: author rebuttals due 
-- September 7: decisions communicated 
-- September 20: camera ready due 
+- September 03: author rebuttals due 
+- September 11: decisions communicated 
+- September 23: camera ready due 
 - October 19/20: CLAI unconference 
 
 #### Second stage
