@@ -15,7 +15,7 @@ permalink: call-for-papers
 #### Important updates
 
 <i class="fa-regular fa-star fa-beat fa-sm">NEW!</i>&nbsp;&nbsp;
-**Decisions are now out on [OpenReview](https://openreview.net/group?id=continualai.org/CLAI/2023/Unconference_Preregistration_Track)!**
+**Decisions are out now on [OpenReview](https://openreview.net/group?id=continualai.org/CLAI/2023/Unconference_Preregistration_Track)!**
 
 **Make sure to check out the deadlines for the camera ready below.**
 

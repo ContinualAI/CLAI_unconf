@@ -1,0 +1,44 @@
+---
+layout: posts
+modal-id: 1
+date: 2023-09-15
+img: cabin.png
+alt: image-alt
+project-date: September 2023
+client: Start Bootstrap
+category: CFP
+description: Talks
+title: Talks
+permalink: talks
+---
+
+**NOTE: dates and times coming soon.**
+
+<hr style="border: 1px solid black"/>
+
+- **Addressing the challenges of learning in dynamic environments**\
+*Federico Giannini*
+- **Alleviating Catastrophic Forgetting through Direct Feedback Alignment in Neural Networks**\
+*Sara Folchini*
+- **An Analysis of Forgetting in Regularization-Based Continual Learning**\
+*Haoran Li*
+- **Analyzing Continual Learning from a Perspective of Sequential Projections**\
+*Itay Evron, Gon Buzaglo, Edward Moroshko, Nathan Srebro, Daniel Soudry*
+- **Computationally Efficient Continual Learning for Real-World Applications**\
+*Christopher Kanan*
+- **Continual Learning from Demonstration**\
+*Sayantan Auddy, Jakob Hollenstein, Matteo Saveriano, Antonio Rodriguez-sanchez, Justus Piater*
+- **Dendrites as a biologically inspired approach to overcome catastrophic forgetting**\
+*Jeremy Forest*
+- **Developing Strategies for Continual Object Detection with the MMDetection Toolbox**\
+*Angelo Garangau Menezes*
+- **Graphical Neural Activity Threads as an abstraction for spiking neural computation**\
+*Bradley Theilman*
+- **In-context interference in Chat-based Large Language Models**\
+*Eric Nuertey Coleman*
+- **Lifelong Learning for Evolving Graphs**\
+*Lukas Galke*
+- **Memory Management Strategies in Replay-Based Continual Learning beyond Reservoir Sampling**\
+*Andrii Krutsylo*
+- **Strategies for using pre-trained models as a practical solution for continual learning**\
+*Mark McDonnell*

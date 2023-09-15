@@ -12,6 +12,13 @@ title: Call for Talks
 permalink: call-for-talks
 ---
 
+#### Important updates
+
+<i class="fa-regular fa-star fa-beat fa-sm">NEW!</i>&nbsp;&nbsp;
+**The list of accepted talks is now available [here]({{ site.baseurl }}/talks)!**
+
+<hr style="border: 1px solid black"/>
+
 *This call is also available in [PDF format <i class="fa-regular fa-file-pdf fa-sm"></i>]({{ site.baseurl }}/Talk_CFP.pdf)*
 
 
