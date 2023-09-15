@@ -12,12 +12,6 @@ title: Call for Talks
 permalink: call-for-talks
 ---
 
-#### Important updates
-<i class="fa-regular fa-star fa-beat fa-sm">NEW!</i>&nbsp;&nbsp;
-**The [OpenReview](https://openreview.net/group?id=continualai.org/CLAI/2023/Unconference_Talks_Track) page now accepts talk proposals!**
-
-<hr style="border: 1px solid black"/>
-
 *This call is also available in [PDF format <i class="fa-regular fa-file-pdf fa-sm"></i>]({{ site.baseurl }}/Talk_CFP.pdf)*
 
 
