@@ -17,6 +17,8 @@ permalink: program
 <i class="fa-regular fa-star fa-beat fa-sm">NEW!</i>&nbsp;&nbsp;
 **The list of accepted talks is now available [here]({{ site.baseurl }}/talks)!**
 
+**More details coming soon!**
+
 <hr style="border: 1px solid black"/>
 
 <p class="text-center tap-to-zoom-hint" zIndex="10000">(tap to zoom)</p>
