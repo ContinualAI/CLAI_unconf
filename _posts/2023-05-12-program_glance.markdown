@@ -7,9 +7,9 @@ alt: image-alt
 project-date: May 2023
 client: Start Bootstrap
 category: CFP
-description: Program
-title: Program
-permalink: program
+description: Program at a Glance
+title: Program at a Glance
+permalink: program_glance
 ---
 
 #### Important updates
@@ -25,6 +25,6 @@ Following the idea of inclusion, we created a 24-hour program divided into 2 par
 
 The topics and duration of each session will be announced in the near future. However, we aim that both parts of the program will contain roughly the same topics, only the content will differ.
 
-<img src="UnConf_Program_Glance.png" width="100%" alt="Program at a glance" class="fullscreenable_img">
+<img src="img/UnConf_Program_Glance.png" width="100%" alt="Program at a glance" class="fullscreenable_img">
 
 <p class="text-center tap-to-zoom-hint" zIndex="10000">(tap to zoom)</p>
