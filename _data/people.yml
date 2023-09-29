@@ -62,6 +62,13 @@
   position: "Program Chair"
   website: "https://groups.cs.umass.edu/binds/"
 
+- name: "Joseph KJ"
+  img: "/img/people/kj_joseph.jpg" 
+  title: "Research Scientist"
+  uni: "Adobe Research"
+  position: "Program Chair"
+  website: "https://josephkj.in/"
+
 ##########################################
 ##########################################
 ##########################################
@@ -140,13 +147,6 @@
   uni: "Deepmind"
   position: "Outreach Chair"
   website: "https://arthurdouillard.com/"
-
-- name: "Joseph KJ"
-  img: "/img/people/kj_joseph.jpg" 
-  title: "Research Scientist"
-  uni: "Adobe Research"
-  position: "Outreach Chair"
-  website: "https://josephkj.in/"
 
 ##########################################
 ##########################################
