@@ -372,6 +372,36 @@ section.success a {
     border-radius: 50%;
 }
 
+.our-talks {
+    border-radius: 20px;
+    text-align: center;
+    margin-bottom: 20px;
+    padding: 5px 5px 5px 5px;
+    color: #000;
+    background: #{{ site.color.white }};;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    /* max-width: 30px; */
+}
+
+.our-talks p {
+    margin: 0px 0px 5px 0px;
+}
+
+.our-talks .pic {
+    padding: 1px;
+    margin-bottom: 10px;
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+    transition: all 0.5s ease 0s;
+
+}
+
+.our-talks:hover .pic {
+    border:5px solid #{{ site.color.secondary }};
+    border-radius: 50%;
+}
+
 .pic img {
     width: 100%;
     height: auto;
