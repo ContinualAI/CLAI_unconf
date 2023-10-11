@@ -12,10 +12,8 @@ title: Program at a Glance
 permalink: program_glance
 ---
 
-#### Important updates
 
-<i class="fa-regular fa-star fa-beat fa-sm">NEW!</i>&nbsp;&nbsp;
-**The list of accepted talks is now available [here]({{ site.baseurl }}/talks)!**
+**View our full program line-up [here]({{ site.baseurl }}/program)!**
 
 <hr style="border: 1px solid black"/>
 
@@ -25,6 +23,43 @@ Following the idea of inclusion, we created a 24-hour program divided into 2 par
 
 The topics and duration of each session will be announced in the near future. However, we aim that both parts of the program will contain roughly the same topics, only the content will differ.
 
+<i class="fa-regular fa-star fa-beat fa-sm">NEW!</i>&nbsp;&nbsp;
+**The list of accepted talks is now available [here]({{ site.baseurl }}/talks)!**
+
+
+<hr style="border: 1px solid black"/>
+
+<p class="text-center tap-to-zoom-hint" zIndex="10000">(tap to zoom)</p>
+
+<style>
+div.scroll-container {
+  background-color: #333;
+  overflow: auto;
+  white-space: nowrap;
+  padding: 10px;
+}
+
+div.scroll-container img {
+  padding: 10px;
+}
+</style>
+
+### Overview
+
+<img src="img/Program_1.jpg" width="100%" alt="Program" class="fullscreenable_img">
+
+### Schedule
+
+<div class="scroll-container">
+
+<img src="img/Program_2.jpg" width="350" alt="Schedule of Opening Session, Session 1, Session 2" class="fullscreenable_img">
+
+<img src="img/Program_3.jpg" width="350" alt="Schedule of Session 3, Session 4, Session 5" class="fullscreenable_img">
+
+<img src="img/Program_4.jpg" width="350" alt="Schedule of Session 6, Session 7, Closing remarks" class="fullscreenable_img">
+</div>
+
+### At a Glance
 <img src="img/UnConf_Program_Glance.png" width="100%" alt="Program at a glance" class="fullscreenable_img">
 
 <p class="text-center tap-to-zoom-hint" zIndex="10000">(tap to zoom)</p>
