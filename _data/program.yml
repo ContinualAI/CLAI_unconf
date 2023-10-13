@@ -9,7 +9,7 @@
   position: "General Chair"
   website: "https://www.vincenzolomonaco.com/"
   session: "Continual AI Session"
-  time: "09.00 - 09.30"
+  time: "09.00 - 09.30, 19 Oct 2023"
   talktitle: "Welcome to unconf 2023!"
 
 - name: "Marco Gori"
@@ -19,7 +19,7 @@
   position: "General Chair"
   website: "https://sailab.diism.unisi.it/people/marco-gori/"
   session: "Invited Talk"
-  time: "09.30 - 10.15"
+  time: "09.30 - 10.15, 19 Oct 2023"
   talktitle: "Collectionless AI"
 
 - name: "Albin Soutif"
@@ -29,7 +29,7 @@
   position: " "
   website: "https://github.com/AlbinSou"
   session: "Hands-on Session"
-  time: "10.45 - 11.30"
+  time: "10.45 - 11.30, 19 Oct 2023"
   talktitle: "Intro to Avalanche for CL"
 
 - name: "Eric Nuertey Coleman; Federico Giannini; Sara Folchini; Rudy Semola; Elif Ceren Gok Yildirim"
@@ -39,7 +39,7 @@
   position: " "
   website: " "
   session: "Paper Session"
-  time: "11.30 - 12.30"
+  time: "11.30 - 12.30, 19 Oct 2023"
   talktitle: " "
 
 ###########################################
@@ -53,7 +53,7 @@
   position: " "
   website: "https://drimpossible.github.io/"
   session: "Invited Talk"
-  time: "13.30 - 14.15"
+  time: "13.30 - 14.15, 19 Oct 2023"
   talktitle: "Navigating Hurdles for Online Continual Learning in the Wild"
 
 - name: "Alessio Bernardo"
@@ -63,7 +63,7 @@
   position: " "
   website: " "
   session: "Workshop"
-  time: "14.15 - 15.00"
+  time: "14.15 - 15.00, 19 Oct 2023"
   talktitle: "River Library"
   material: "https://github.com/alessiobernardo/River_Hands-on_ContinualAI_Unconference/tree/main"
 
@@ -74,7 +74,7 @@
   position: " "
   website: " "
   session: "Paper Session"
-  time: "15.00 - 16.00"
+  time: "15.00 - 16.00, 19 Oct 2023"
   talktitle: " "
 
 ###########################################
@@ -88,7 +88,7 @@
   position: " "
   website: "https://scholar.google.be/citations?user=0gXva0YAAAAJ&hl=fr"
   session: "Invited talk"
-  time: "16.30 - 17.15"
+  time: "16.30 - 17.15, 19 Oct 2023"
   talktitle: "How can neuroscience help us overcome catastrophic forgetting in ML?"
 
 - name: "Subutai Ahmad, Jeremy Forest"
@@ -98,7 +98,7 @@
   position: " "
   website: " "
   session: "Open Discussion"
-  time: "17.15 - 18.00"
+  time: "17.15 - 18.00, 19 Oct 2023"
   talktitle: ""
 
 - name: "Bradley Theilman; Jeremy Forest; Antonio Carta & Daniele Castellana"
@@ -108,7 +108,7 @@
   position: " "
   website: " "
   session: "Paper Session"
-  time: "18.00 - 19.00"
+  time: "18.00 - 19.00, 19 Oct 2023"
   talktitle: " "
 
 - name: "Diyi Yang"
@@ -118,17 +118,17 @@
   position: " "
   website: "https://cs.stanford.edu/~diyiy/"
   session: "Invited Talk"
-  time: "19.00 - 19.45"
+  time: "19.00 - 19.45, 19 Oct 2023"
   talktitle: "Continual and Efficient Adaptation of Large Language Models for Diverse Contexts"
 
-- name: "Chris Kanan; Zsolt Kira; Bing Liu; Camila Gonzalez"
+- name: "Christopher Kanan; Zsolt Kira; Bing Liu; Camila Gonzalez; Sayna Ebrahimi"
   img:  "/img/logo_circle2.png" 
   title: " "
   uni: " "
   position: " "
   website: " "
-  session: "Panel Discussion"
-  time: "19.45 - 20.30"
+  session: "Panel Discussion: Applications of Continual Learning"
+  time: "19.45 - 20.30, 19 Oct 2023"
   talktitle: " "
 
 ###########################################
@@ -142,7 +142,7 @@
   position: "General Chair"
   website: "https://kwcooper.xyz"
   session: "ContinualAI Session"
-  time: "19.45 - 20.30"
+  time: "19.45 - 20.30, 19 Oct 2023"
   talktitle: " "
 
 - name: "Stephen Grossberg"
@@ -152,7 +152,7 @@
   position: " "
   website: "https://sites.bu.edu/steveg/"
   session: "Invited Talk"
-  time: "21.30 - 22.30"
+  time: "21.30 - 22.30, 19 Oct 2023"
   talktitle: "Explainable and Reliable AI and Autonomous Adaptive Intelligence: Comparing Deep Learning with Adaptive Resonance"
 
 - name: "Jay McClelland"
@@ -162,7 +162,7 @@
   position: " "
   website: "https://web.stanford.edu/~jlmcc/index.html"
   session: "Invited Talk" 
-  time: "22.30 - 23.30"
+  time: "22.30 - 23.30, 19 Oct 2023"
   talktitle: " "
 
 - name: "Haoran Li; Andrii Krutsylo"
@@ -172,7 +172,7 @@
   position: " "
   website: " "
   session: "Paper Session"
-  time: "23.30 - 00.30"
+  time: "23.30 - 00.30, 19/20 Oct 2023"
   talktitle: " "
 
 ###########################################
@@ -186,7 +186,7 @@
   position: " "
   website: "https://scholar.google.com/citations?user=SLQ1lxgAAAAJ&hl=en"
   session: "Invited Talk"
-  time: "01.30 - 02.15"
+  time: "01.30 - 02.15, 20 Oct 2023"
   talktitle: " "
 
 - name: "Mark McDonnell"
@@ -196,7 +196,7 @@
   position: " "
   website: " "
   session: "Paper Session"
-  time: "02.15 - 03.15"
+  time: "02.15 - 03.15, 20 Oct 2023"
   talktitle: " "
 
 - name: "Jonghyun Choi"
@@ -206,7 +206,7 @@
   position: " "
   website: "https://ppolon.github.io/"
   session: "Invited Talk"
-  time: "03.15 - 04.00"
+  time: "03.15 - 04.00, 20 Oct 2023"
   talktitle: "Online continual learning on hierarchical label expansion"
 
 - name: "Hasan Abed Al Kader Hammoud, Jonghyun Choi"
@@ -216,7 +216,7 @@
   position: " "
   website: " "
   session: "Open Discussion"
-  time: "04.00 - 05.00"
+  time: "04.00 - 05.00, 20 Oct 2023"
   talktitle: " "
 
 ###########################################
@@ -230,7 +230,7 @@
   position: " "
   website: "https://emtiyaz.github.io/"
   session: "Invited Talk"
-  time: "06.15 - 07.00"
+  time: "06.15 - 07.00, 20 Oct 2023"
   talktitle: "How to build machines that adapt quickly"
 
 - name: "Vineeth N Balasubramanian"
@@ -240,7 +240,7 @@
   position: " "
   website: "https://people.iith.ac.in/vineethnb/"
   session: ""
-  time: "07.00 - 07:45"
+  time: "07.00 - 07:45, 20 Oct 2023"
   talktitle: "Going Beyond Continual Learning: Towards Organic Lifelong Learning"
 
 - name: "Itay Evron et al.; Nishant Suresh Aswani; Timm Hess"
@@ -250,7 +250,7 @@
   position: " "
   website: " "
   session: "Paper Session"
-  time: "07:45 - 08.45"
+  time: "07:45 - 08.45, 20 Oct 2023"
   talktitle: ""
 
 - name: "Tyler Hayes"
@@ -260,7 +260,7 @@
   position: " "
   website: "https://tyler-hayes.github.io/"
   session: "ContinualAI Session"
-  time: "08.45 - 09.15"
+  time: "08.45 - 09.15, 20 Oct 2023"
   talktitle: "That's a wrap!"
 
 ###########################################
