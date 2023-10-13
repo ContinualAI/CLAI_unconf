@@ -65,6 +65,7 @@
   session: "Workshop"
   time: "14.15 - 15.00"
   talktitle: "River Library"
+  material: "https://github.com/alessiobernardo/River_Hands-on_ContinualAI_Unconference/tree/main"
 
 - name: "Christopher Kanan; Lukas Galke; Sayantan Auddy et al.,; Angelo Menezes; Thibault Malherbe"
   img:  "/img/logo_circle2.png" 
