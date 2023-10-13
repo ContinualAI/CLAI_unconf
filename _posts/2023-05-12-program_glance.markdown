@@ -13,7 +13,12 @@ permalink: program_glance
 ---
 
 
+<i class="fa-regular fa-star fa-beat fa-sm">NEW!</i>&nbsp;&nbsp;
 **View our full program line-up [here]({{ site.baseurl }}/program)!**
+
+The list of accepted talks is now available [here]({{ site.baseurl }}/talks)!
+
+<p style="color:#000">Please check the Unconf <a  target="_blank" href="{{ site.baseurl }}/Unconf - Code of Conduct.pdf"><span style="font-weight: bold;">Code of Conduct</span></a></p>
 
 <hr style="border: 1px solid black"/>
 
@@ -23,8 +28,8 @@ Following the idea of inclusion, we created a 24-hour program divided into 2 par
 
 The topics and duration of each session will be announced in the near future. However, we aim that both parts of the program will contain roughly the same topics, only the content will differ.
 
-<i class="fa-regular fa-star fa-beat fa-sm">NEW!</i>&nbsp;&nbsp;
-**The list of accepted talks is now available [here]({{ site.baseurl }}/talks)!**
+
+
 
 
 <hr style="border: 1px solid black"/>

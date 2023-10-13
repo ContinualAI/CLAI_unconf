@@ -12,6 +12,9 @@ title: Registration
 permalink: register
 ---
 
+Please check the Unconf <a target="_blank" href="{{ site.baseurl }}/Unconf - Code of Conduct.pdf"><span style="font-weight: bold;">Code of Conduct</span></a>.
+
+
 We are pleased to announce that the registration for the Un-Conference is now open.
 
 **Registration is free for everyone!**
