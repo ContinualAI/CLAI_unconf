@@ -207,9 +207,9 @@
   website: "https://ppolon.github.io/"
   session: "Invited Talk"
   time: "03.15 - 04.00, 20 Oct 2023"
-  talktitle: "Online continual learning on hierarchical label expansion"
+  talktitle: "Online continual learning in various practical scenarios"
 
-- name: "Hasan Abed Al Kader Hammoud, Jonghyun Choi"
+- name: "Hasan Abed Al Kader Hammoud"
   img:  "/img/logo_circle2.png" 
   title: " "
   uni: " "
