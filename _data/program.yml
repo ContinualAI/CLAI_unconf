@@ -31,6 +31,7 @@
   session: "Hands-on Session"
   time: "10.45 - 11.30, 19 Oct 2023"
   talktitle: "Intro to Avalanche for CL"
+  additional_material: "https://avalanche.continualai.org/"
 
 - name: "Eric Nuertey Coleman; Federico Giannini; Sara Folchini; Rudy Semola; Elif Ceren Gok Yildirim"
   img:  "/img/logo_circle2.png" 
@@ -61,11 +62,12 @@
   title: " "
   uni: "Politecnico di Milano"
   position: " "
-  website: " "
+  website: "https://github.com/online-ml/river"
   session: "Workshop"
   time: "14.15 - 15.00, 19 Oct 2023"
   talktitle: "River Library"
   material: "https://github.com/alessiobernardo/River_Hands-on_ContinualAI_Unconference/tree/main"
+  additional_material: "https://github.com/online-ml/river"
 
 - name: "Christopher Kanan; Lukas Galke; Sayantan Auddy et al.,; Angelo Menezes; Thibault Malherbe"
   img:  "/img/logo_circle2.png" 
@@ -239,7 +241,7 @@
   uni: "Indian Institute of Technology, Hyderabad"
   position: " "
   website: "https://people.iith.ac.in/vineethnb/"
-  session: ""
+  session: "Invited Talk"
   time: "07.00 - 07:45, 20 Oct 2023"
   talktitle: "Going Beyond Continual Learning: Towards Organic Lifelong Learning"
 
