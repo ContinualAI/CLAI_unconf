@@ -11,6 +11,7 @@
   session: "Continual AI Session"
   time: "09.00 - 09.30, 19 Oct 2023"
   talktitle: "Welcome to unconf 2023!"
+  flag: "it"
 
 - name: "Marco Gori"
   img:  "/img/program/marco-gori.png" 
@@ -21,6 +22,17 @@
   session: "Invited Talk"
   time: "09.30 - 10.15, 19 Oct 2023"
   talktitle: "Collectionless AI"
+  flag: "it"
+
+- name: "Marco Gori"
+  img:  "/img/logo_circle2.png" 
+  title: "University of Siena"
+  uni: " "
+  position: " "
+  website: ""
+  session: "Open Discussion"
+  time: "10.15 - 10.45, 19 Oct 2023"
+  talktitle: "Foundation Models and Continual Learning"
 
 - name: "Albin Soutif"
   img: "/img/program/albin-soutif.jpeg" 
@@ -32,6 +44,7 @@
   time: "10.45 - 11.30, 19 Oct 2023"
   talktitle: "Intro to Avalanche for CL"
   additional_material: "https://avalanche.continualai.org/"
+  flag: "es"
 
 - name: "Eric Nuertey Coleman; Federico Giannini; Sara Folchini; Rudy Semola; Elif Ceren Gok Yildirim"
   img:  "/img/logo_circle2.png" 
@@ -56,6 +69,7 @@
   session: "Invited Talk"
   time: "13.30 - 14.15, 19 Oct 2023"
   talktitle: "Navigating Hurdles for Online Continual Learning in the Wild"
+  flag: "gb"
 
 - name: "Alessio Bernardo"
   img:  "/img/logo_circle2.png" 
@@ -68,6 +82,7 @@
   talktitle: "River Library"
   material: "https://github.com/alessiobernardo/River_Hands-on_ContinualAI_Unconference/tree/main"
   additional_material: "https://github.com/online-ml/river"
+  flag: "it"
 
 - name: "Christopher Kanan; Lukas Galke; Sayantan Auddy et al.,; Angelo Menezes; Thibault Malherbe"
   img:  "/img/logo_circle2.png" 
@@ -92,6 +107,7 @@
   session: "Invited talk"
   time: "16.30 - 17.15, 19 Oct 2023"
   talktitle: "How can neuroscience help us overcome catastrophic forgetting in ML?"
+  flag: "cl"
 
 - name: "Subutai Ahmad, Jeremy Forest"
   img:  "/img/logo_circle2.png"  
@@ -122,6 +138,7 @@
   session: "Invited Talk"
   time: "19.00 - 19.45, 19 Oct 2023"
   talktitle: "Continual and Efficient Adaptation of Large Language Models for Diverse Contexts"
+  flag: "us"
 
 - name: "Christopher Kanan; Zsolt Kira; Bing Liu; Camila Gonzalez; Sayna Ebrahimi"
   img:  "/img/logo_circle2.png" 
@@ -144,8 +161,9 @@
   position: "General Chair"
   website: "https://kwcooper.xyz"
   session: "ContinualAI Session"
-  time: "19.45 - 20.30, 19 Oct 2023"
+  time: "20.30 - 21:30, 19 Oct 2023"
   talktitle: " "
+  flag: "us"
 
 - name: "Stephen Grossberg"
   img:  "/img/program/stephen-grossberg.jpeg" 
@@ -156,6 +174,7 @@
   session: "Invited Talk"
   time: "21.30 - 22.30, 19 Oct 2023"
   talktitle: "Explainable and Reliable AI and Autonomous Adaptive Intelligence: Comparing Deep Learning with Adaptive Resonance"
+  flag: "us"
 
 - name: "Jay McClelland"
   img:  "/img/program/jay-mcclelland.jpeg" 
@@ -166,6 +185,7 @@
   session: "Invited Talk" 
   time: "22.30 - 23.30, 19 Oct 2023"
   talktitle: "Three kinds of learning in brains and machines"
+  flag: "us"
 
 - name: "Haoran Li; Andrii Krutsylo"
   img:  "/img/logo_circle2.png" 
@@ -184,12 +204,13 @@
 - name: "Savitha Ramasamy"
   img:  "/img/program/savitha-ramasamy.jpeg" 
   title: " "
-  uni: "Institute of Infocomm Research (I2R)"
+  uni: "Institute for Infocomm Research (I2R)"
   position: " "
   website: "https://scholar.google.com/citations?user=SLQ1lxgAAAAJ&hl=en"
   session: "Invited Talk"
   time: "01.30 - 02.15, 20 Oct 2023"
   talktitle: " "
+  flag: "sg"
 
 - name: "Mark McDonnell"
   img:  "/img/logo_circle2.png" 
@@ -210,6 +231,7 @@
   session: "Invited Talk"
   time: "03.15 - 04.00, 20 Oct 2023"
   talktitle: "Online continual learning in various practical scenarios"
+  flag: "kr"
 
 - name: "Hasan Abed Al Kader Hammoud"
   img:  "/img/logo_circle2.png" 
@@ -234,6 +256,7 @@
   session: "Invited Talk"
   time: "06.15 - 07.00, 20 Oct 2023"
   talktitle: "How to build machines that adapt quickly"
+  flag: "jp"
 
 - name: "Vineeth N Balasubramanian"
   img:  "/img/program/vineeth-balasubramanian.jpeg"
@@ -244,6 +267,7 @@
   session: "Invited Talk"
   time: "07.00 - 07:45, 20 Oct 2023"
   talktitle: "Going Beyond Continual Learning: Towards Organic Lifelong Learning"
+  flag: "in"
 
 - name: "Itay Evron et al.; Nishant Suresh Aswani; Timm Hess"
   img:  "/img/logo_circle2.png" 
@@ -264,6 +288,7 @@
   session: "ContinualAI Session"
   time: "08.45 - 09.15, 20 Oct 2023"
   talktitle: "That's a wrap!"
+  flag: "fr"
 
 ###########################################
 ###########################################

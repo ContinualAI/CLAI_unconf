@@ -45,8 +45,15 @@
                           <br>
                           <p>{{ prog.name }}</p>
                           <!-- <p> {{ prog.title }}</p> -->
-                          <p> <i> {{ prog.uni }} </i> </p>
+                          <p> 
+                            
+                            <i> {{ prog.uni }} </i> 
+                            {% if prog.flag %}
+                            <span class="fi fi-{{ prog.flag }} fib"></span>
+                            {% endif %}
+                          </p>
                           <!-- <p> {{ prog.position }}</p> -->
+                          
                       </div>
                   </div>
                   {% if prog.material %}
