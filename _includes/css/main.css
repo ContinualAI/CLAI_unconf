@@ -11,7 +11,7 @@ p, #post ul, #post ol {
     font-size: 20px;
 }
 
-p.small {
+p.small, details, #post details, #post details ol, #post details ul {
     font-size: 16px;
 }
 

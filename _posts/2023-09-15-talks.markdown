@@ -16,6 +16,61 @@ permalink: talks
 
 <hr style="border: 1px solid black"/>
 
+
+# Invited talks
+- **CollectionLess Artificial Intelligence**\
+*Marco Gori*\
+<sup>09.30 - 10.15, 19 Oct 2023 UTC</sup>
+    <details>
+    <summary>Abstract <i class="fa-solid fa-caret-down"></i></summary>
+    <p class="small">
+    By and large, the professional handling of huge data collections is regarded as a fundamental ingredient of the progress of machine learning and of its spectacular results in related disciplines. While the recent debate on how rogue AI may arise seems to be quite controversial because of influential different positions, there is a growing agreement on risks connected to the centralization of huge data collections. In this talk I sustains the position that the time has come for thinking of a new learning protocol where machines conquer cognitive skills in a truly human-like context that is characterized by environmental interactions. This comes with a specific restriction on the protocol where the agent is supposed to gain those cognitive skills without storing the information acquired from the environment. While data is processed at a certain instant with the purpose of contributing to update the current internal representation of the environment, the agent is not giving the privilege of recording the temporal stream. Basically, there is neither the permission to store the temporal information coming from the sensors nor their internal representations. Hence, no data collection can be created from machine environmental interactions. I argue that facing this challenge requires new foundations on computational processes of learning and reasoning that might open the doors to a truly orthogonal competitive track on AI technologies that avoid data accumulation by design, thus offering a framework which is better suited for privacy issues. I give the big picture of a novel approach to face the proposed challenge which is based on computational laws of learning inspired to principles of theoretical physics. Finally, I will show some preliminary experimental results.
+    </p>
+    </details>
+
+- **How to build machines that adapt quickly**\
+*Emtiyaz Khan*\
+<sup>06.15 - 07.00, 20 Oct 2023 UTC</sup>
+    <details>
+    <summary>Abstract <i class="fa-solid fa-caret-down"></i></summary>
+    <p class="small">
+    Humans and animals have a natural ability to autonomously learn and quickly adapt to their surroundings. How can we design machines that do the same? In this talk, I will present Bayesian principles to bridge such gaps between humans and machines. I will discuss (1) the Bayesian learning rule to unify algorithms; (2) sensitivity analysis to understand and improve memory of the algorithms; and (3) new priors to enable quick adaptation. These ideas are unified in a new learning principle called the Bayes-duality principle, yielding new mechanisms for knowledge transfer in learning machines.<br>
+    References:
+    <ol>
+    <li>The Bayesian Learning Rule, (JMLR 2023) M.E. Khan, H. Rue (<a href="https://arxiv.org/abs/2107.04562">arXiv</a>)</li>
+    <li>The Memory Perturbation Equation: Understanding Model’s Sensitivity to Data, (NeurIPS 2023) P. Nickl, L. Xu, D. Tailor, T. Möllenhoff, M.E. Khan</li>
+    <li>Knowledge-Adaptation Priors, (NeurIPS 2021) M.E. Khan, S. Swaroop (<a href="https://arxiv.org/abs/2106.08769">arXiv</a>)</li>
+    <li>Improving Continual Learning by Accurate Gradient Reconstructions of the Past, (TMLR 2023) E. Daxberger, S. Swaroop, K. Osawa, R. Yokota, R. turner, J. M. Hernández-Lobato, M.E. Khan</li>
+    <li>Continual Deep Learning by Functional Regularisation of Memorable Past (NeurIPS 2020) P. Pan*, S. Swaroop*, A. Immer, R. Eschenhagen, R. E. Turner, M.E. Khan (<a href="https://arxiv.org/abs/2004.14070">arXiv</a>)</li>
+    </ol>
+    </p>
+    </details>
+
+- **Continual and Efficient Adaptation of Large Language Models for Diverse Contexts**\
+*Diyi Yang*\
+<sup>19.00 - 19.45, 19 Oct 2023 UTC</sup>
+    <details>
+    <summary>Abstract <i class="fa-solid fa-caret-down"></i></summary>
+    <p class="small">
+    Continual learning has become increasingly important as it enables NLP models to constantly learn and gain knowledge over time.  To enable knowledge transfer between different tasks, domains, and contexts, these capabilities become more important, especially in a lightweight and efficient manner. We will discuss two studies that illustrate some of our recent efforts toward continual adaptation in this talk. The first one focuses on how to carefully utilize task generic and task-specific information to design novel regularization methods for continual text classification, and how to develop efficient models to achieve knowledge transfer without much parameter redundancy from a compositional perspective. The second part looks at how to adapt models trained on one language to its variations for dialect inclusion and general adaptation techniques for low-resourced contexts.
+    </p>
+    </details>
+
+- **Navigating Hurdles for Online Continual Learning in the Wild: From Correlated Labels to Having No Training Data!**\
+*Ameya Prabhu*\
+<sup>13.30 - 14.15, 19 Oct 2023 UTC</sup>
+    <details>
+    <summary>Abstract <i class="fa-solid fa-caret-down"></i></summary>
+    <p class="small">
+    (i) Real-world data streams chronically provide highly correlated data. We discover optimizing online learning performance will select for algorithmic choices that overfit to recent data rather than adapting to changing patterns. I shall summarize months of my investigation on how these label correlations look like, ways to measure their impact on learning algorithms, and how to choose better metrics which select for algorithms which actually adapt to changing patterns.<br>
+    (ii) Real-world data streams (for classification tasks!) do not come with pre-labeled training sets. Continual learning approaches however, start from the assumption of labeled training sets. This step of continuously collecting and annotating training datasets is a hidden and unrealistically expensive step. How can we bypass this step of curating training datasets and quickly update continual classifiers when provided with new category names? We shall explore an old strategy from the NELL/NEIL-era: targeted learning from the internet. I shall summarize months of my investigation on how to effectively using the internet as a ever-expanding, continually updating training data source along with its promises and pitfalls.
+
+    </p>
+    </details>
+
+
+# Paper talks
+
 - **Addressing the challenges of learning in dynamic environments**\
 *Federico Giannini*
 - **Alleviating Catastrophic Forgetting through Direct Feedback Alignment in Neural Networks**\
