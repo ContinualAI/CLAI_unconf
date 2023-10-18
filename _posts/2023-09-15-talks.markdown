@@ -12,11 +12,6 @@ title: Talks
 permalink: talks
 ---
 
-**NOTE: dates and times coming soon.**
-
-<hr style="border: 1px solid black"/>
-
-
 # Invited talks
 - **CollectionLess Artificial Intelligence**\
 *Marco Gori*\
