@@ -71,29 +71,66 @@ permalink: talks
 
 # Paper talks
 
+### Paper session 1 (11.30 - 12.30, 19 Oct 2023 UTC)
+
+- **In-context interference in Chat-based Large Language Models**\
+*Eric Nuertey Coleman*
 - **Addressing the challenges of learning in dynamic environments**\
 *Federico Giannini*
 - **Alleviating Catastrophic Forgetting through Direct Feedback Alignment in Neural Networks**\
 *Sara Folchini*
-- **An Analysis of Forgetting in Regularization-Based Continual Learning**\
-*Haoran Li*
-- **Analyzing Continual Learning from a Perspective of Sequential Projections**\
-*Itay Evron, Gon Buzaglo, Edward Moroshko, Nathan Srebro, Daniel Soudry*
+- **Adaptive Hyperparameter Optimization for Continual Learning Scenarios**\
+*Rudy Semola*
+- **AdaCL: Adaptive Continual Learning**\
+*Elif Ceren Gok Yildirim*
+
+### Paper session 2 (15.00 - 16.00, 19 Oct 2023 UTC)
+
 - **Computationally Efficient Continual Learning for Real-World Applications**\
 *Christopher Kanan*
-- **Continual Learning from Demonstration**\
-*Sayantan Auddy, Jakob Hollenstein, Matteo Saveriano, Antonio Rodriguez-sanchez, Justus Piater*
-- **Dendrites as a biologically inspired approach to overcome catastrophic forgetting**\
-*Jeremy Forest*
-- **Developing Strategies for Continual Object Detection with the MMDetection Toolbox**\
-*Angelo Garangau Menezes*
-- **Graphical Neural Activity Threads as an abstraction for spiking neural computation**\
-*Bradley Theilman*
-- **In-context interference in Chat-based Large Language Models**\
-*Eric Nuertey Coleman*
 - **Lifelong Learning for Evolving Graphs**\
 *Lukas Galke*
+- **Continual Learning from Demonstration**\
+*Sayantan Auddy, Jakob Hollenstein, Matteo Saveriano, Antonio Rodriguez-sanchez, Justus Piater*
+- **Implicit Neural Representation as vectorizer for classification task applied to diverse data structures**\
+*Thibault Malherbe*
+
+### Paper session 3 (18.00 - 19.00, 19 Oct 2023 UTC)
+
+- **Graphical Neural Activity Threads as an abstraction for spiking neural computation**\
+*Bradley Theilman*
+- **Dendrites as a biologically inspired approach to overcome catastrophic forgetting**\
+*Jeremy Forest*
+- **CD-IMM: The Benefits of Domain-based Mixture Models in Bayesian Continual Learning**\
+*Antonio Carta and Daniele Castellana*
+
+### Paper session 4 (23.30 - 00.30, 19/20 Oct 2023 UTC)
+
+- **An Analysis of Forgetting in Regularization-Based Continual Learning**\
+*Haoran Li*
 - **Memory Management Strategies in Replay-Based Continual Learning beyond Reservoir Sampling**\
 *Andrii Krutsylo*
+- **Developing Strategies for Continual Object Detection with the MMDetection Toolbox**\
+*Angelo Garangau Menezes*
+
+### Paper session 5 (02.15 - 03.15, 20 Oct 2023 UTC)
+
 - **Strategies for using pre-trained models as a practical solution for continual learning**\
-*Mark McDonnell*
+*Mark McDonnell*\
+*To be confirmed*
+
+### Paper session 6 (07.45 - 08.45, 20 Oct 2023 UTC)
+
+- **Analyzing Continual Learning from a Perspective of Sequential Projections**\
+*Itay Evron, Gon Buzaglo, Edward Moroshko, Nathan Srebro, Daniel Soudry*
+- **Examining Changes in Internal Representations of Continual Learning Models through Tensor Decomposition**\
+*Nishant Suresh Aswani*
+- **Two Complementary Perspectives to Continual Learning: Ask Not Only What to Optimize, But Also How**\
+*Timm Hess* 
+
+
+
+
+
+
+

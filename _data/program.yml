@@ -52,7 +52,7 @@
   uni: " "
   position: " "
   website: " "
-  session: "Paper Session"
+  session: "Paper Session #1"
   time: "11.30 - 12.30, 19 Oct 2023"
   talktitle: " "
 
@@ -84,13 +84,13 @@
   additional_material: "https://github.com/online-ml/river"
   flag: "it"
 
-- name: "Christopher Kanan; Lukas Galke; Sayantan Auddy et al.,; Angelo Menezes; Thibault Malherbe"
+- name: "Christopher Kanan; Lukas Galke; Sayantan Auddy et al.; Thibault Malherbe"
   img:  "/img/logo_circle2.png" 
   title: " "
   uni: " "
   position: " "
   website: " "
-  session: "Paper Session"
+  session: "Paper Session #2"
   time: "15.00 - 16.00, 19 Oct 2023"
   talktitle: " "
 
@@ -125,7 +125,7 @@
   uni: " "
   position: " "
   website: " "
-  session: "Paper Session"
+  session: "Paper Session #3"
   time: "18.00 - 19.00, 19 Oct 2023"
   talktitle: " "
 
@@ -187,13 +187,13 @@
   talktitle: "Three kinds of learning in brains and machines"
   flag: "us"
 
-- name: "Haoran Li; Andrii Krutsylo"
+- name: "Haoran Li; Andrii Krutsylo; Angelo Garangau Menezes"
   img:  "/img/logo_circle2.png" 
   title: " "
   uni: " "
   position: " "
   website: " "
-  session: "Paper Session"
+  session: "Paper Session #4"
   time: "23.30 - 00.30, 19/20 Oct 2023"
   talktitle: " "
 
@@ -218,7 +218,7 @@
   uni: " "
   position: " "
   website: " "
-  session: "Paper Session"
+  session: "Paper Session # 5"
   time: "02.15 - 03.15, 20 Oct 2023"
   talktitle: " "
 
@@ -275,7 +275,7 @@
   uni: " "
   position: " "
   website: " "
-  session: "Paper Session"
+  session: "Paper Session #6"
   time: "07:45 - 08.45, 20 Oct 2023"
   talktitle: ""
 
