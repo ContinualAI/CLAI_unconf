@@ -65,10 +65,17 @@
                   {% endif %}
                   {% if prog.additional_material %}
                   <div class="w-100"></div>
-                  
+
+                  {% assign result = prog.additional_material | slice: 0, 1 %}
+                  {% if result == "#" %}
+                  <div class="col-lg-12 col-sm-12">
+                    <p><a href="{{ site.baseurl }}/talks/{{ prog.additional_material }}" target="_blank">See schedule in the talks page</a></p>
+                  </div>
+                  {% else %}
                   <div class="col-lg-12 col-sm-12">
                     <p><a href="{{ prog.additional_material }}" target="_blank">{{ prog.additional_material }}</a></p>
                   </div>
+                  {% endif %}
                   {% endif %}
                   
               </div>

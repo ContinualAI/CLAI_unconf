@@ -55,6 +55,7 @@
   session: "Paper Session #1"
   time: "11.30 - 12.30, 19 Oct 2023"
   talktitle: " "
+  additional_material: "#paper-session-1-1130---1230-19-oct-2023-utc"
 
 ###########################################
 ###########################################
@@ -93,6 +94,7 @@
   session: "Paper Session #2"
   time: "15.00 - 16.00, 19 Oct 2023"
   talktitle: " "
+  additional_material: "#paper-session-2-1500---1600-19-oct-2023-utc"
 
 ###########################################
 ###########################################
@@ -128,6 +130,7 @@
   session: "Paper Session #3"
   time: "18.00 - 19.00, 19 Oct 2023"
   talktitle: " "
+  additional_material: "#paper-session-3-1800---1900-19-oct-2023-utc"
 
 - name: "Diyi Yang"
   img:  "/img/program/diyi-yang.jpeg" 
@@ -196,6 +199,7 @@
   session: "Paper Session #4"
   time: "23.30 - 00.30, 19/20 Oct 2023"
   talktitle: " "
+  additional_material: "#paper-session-4-2330---0030-1920-oct-2023-utc"
 
 ###########################################
 ###########################################
@@ -218,9 +222,10 @@
   uni: " "
   position: " "
   website: " "
-  session: "Paper Session # 5"
+  session: "Paper Session #5"
   time: "02.15 - 03.15, 20 Oct 2023"
   talktitle: " "
+  additional_material: "#paper-session-5-0215---0315-20-oct-2023-utc"
 
 - name: "Jonghyun Choi"
   img:  "/img/program/jonghyun-choi.jpeg" 
@@ -278,6 +283,7 @@
   session: "Paper Session #6"
   time: "07:45 - 08.45, 20 Oct 2023"
   talktitle: ""
+  additional_material: "#paper-session-6-0745---0845-20-oct-2023-utc"
 
 - name: "Tyler Hayes"
   img:  "/img/people/hayes_tyler.jpg" 
