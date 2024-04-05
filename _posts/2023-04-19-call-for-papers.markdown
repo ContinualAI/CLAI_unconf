@@ -53,7 +53,7 @@ We emphasize that the pre-registration process moves the priority of reviewing t
 
 - April 30, 2024: submission of final papers
 - May 30, 2024: decisions released
-- June 21, 2024: journal camera ready due 
+- June 20, 2024: journal camera ready due 
 
 # Pre-registration and Review Process
 
