@@ -16,8 +16,9 @@ permalink: call-for-papers
 
 <i class="fa-regular fa-star fa-beat fa-sm">NEW!</i>&nbsp;&nbsp;
 **Decisions are out now on [OpenReview](https://openreview.net/group?id=continualai.org/CLAI/2023/Unconference_Preregistration_Track)!**
+**Stage 2 authros should submit to the second stage venue [OpenReview Stage 2](https://openreview.net/group?id=continualai.org/CLAI/2023/Unconference_Stage_2#tab-recent-activity)**
 
-**Make sure to check out the deadlines for the camera ready below.**
+**Make sure to check out the deadlines below for more information.**
 
 <hr style="border: 1px solid black"/>
 
@@ -77,7 +78,7 @@ While registered reports add substantial gains in scientific rigor, they add min
 5. A lighter final single-blind peer review (anonymity of reviewers is preserved) then accepts this full paper version, on the basis of whether the protocol has been followed rigorously and findings described appropriately. Whether these findings are confirmatory of the hypotheses does not affect the outcome.
 6. The final complete paper is published in PMLR.     
 
-In summary, authors _first finalize all methods, hypotheses and experimental protocols, which are double-blind peer-reviewed. Upon acceptance, authors will be allotted time to execute their outlined studies. A second, lighter, peer-review step confirms that the proposal has rigorously been adhered to_. We will run the full submission process on [OpenReview](https://openreview.net/group?id=continualai.org/CLAI/2023/Unconference_Preregistration_Track) and ensure the proposal reviewing process is double-blind, with the second stage review then being single-blind for the final executed result papers. 
+In summary, authors _first finalize all methods, hypotheses and experimental protocols, which are double-blind peer-reviewed. Upon acceptance, authors will be allotted time to execute their outlined studies. A second, lighter, peer-review step confirms that the proposal has rigorously been adhered to_. We will run the full submission process on [OpenReview Stage 2](https://openreview.net/group?id=continualai.org/CLAI/2023/Unconference_Stage_2#tab-recent-activity) and ensure the proposal reviewing process is double-blind, with the second stage review then being single-blind for the final executed result papers. 
 
 
 # Submission Formatting
