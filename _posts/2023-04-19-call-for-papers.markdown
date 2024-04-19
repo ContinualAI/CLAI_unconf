@@ -16,7 +16,7 @@ permalink: call-for-papers
 
 <i class="fa-regular fa-star fa-beat fa-sm">NEW!</i>&nbsp;&nbsp;
 **Decisions are out now on [OpenReview](https://openreview.net/group?id=continualai.org/CLAI/2023/Unconference_Preregistration_Track)!**
-**Stage 2 authros should submit to the second stage venue [OpenReview Stage 2](https://openreview.net/group?id=continualai.org/CLAI/2023/Unconference_Stage_2#tab-recent-activity)**
+**Stage 2 authors should submit to the second stage venue [OpenReview Stage 2](https://openreview.net/group?id=continualai.org/CLAI/2023/Unconference_Stage_2#tab-recent-activity)**
 
 **Make sure to check out the deadlines below for more information.**
 
